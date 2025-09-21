@@ -1,6 +1,4 @@
-// In the name of Almighty Allah
-// This code is written by "Md Abu Omayer Babu"
-
+// This code is written by Mohd Aasim Ansari.
 // CodeAlpha Internship in "Java Programming" project named "Hotel Reservation System"
 
 // Special Features: JDBC with MySQL Database Integration, Graphical User Interface (GUI)
